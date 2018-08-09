@@ -5,6 +5,8 @@ one_direction = {"Zayn" => 25,
   
 }
                   
-                  def names_and_age
-                    puts one_direction.each do |name,age|
-                      puts
+                
+                 one_direction.each do |name,age|
+                   
+                 end
+                  
