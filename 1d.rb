@@ -8,7 +8,7 @@ one_direction = {"Zayn" => 25,
                 
                  one_direction.each do |name, age|
                    
-                 end
+                end
                   puts "#{name}"
                   puts "#{age}"
                   
