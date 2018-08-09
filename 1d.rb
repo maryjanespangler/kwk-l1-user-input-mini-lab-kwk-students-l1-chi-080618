@@ -4,4 +4,5 @@ one_direction = {"Zayn" => 25,
                   "Nial" => 24}
                   
                   def names_and_age
-                    puts one_direction
+                    puts one_direction.each do 
+                      
